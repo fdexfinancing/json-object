@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='jsonobject',
+    name='json-object',
     version='0.0.1',
     url='https://github.com/fdexfinancing/json-object',
     download_url='https://github.com/fdexfinancing/json-object/tarball/0.0.1',
@@ -12,6 +12,5 @@ setup(
     zip_safe=False,
     include_package_data=True,
     platforms='any',
-    license='MIT',
-    install_requires=[]
+    license='MIT'
 )
