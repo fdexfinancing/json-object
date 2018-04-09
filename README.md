@@ -1,6 +1,7 @@
 # F(x) JsonObject Package
 
 [![Build Status](https://travis-ci.org/fdexfinancing/json-object.svg?branch=master)](https://travis-ci.org/fdexfinancing/json-object)
+[![codecov](https://codecov.io/gh/fdexfinancing/json-object/branch/master/graph/badge.svg)](https://codecov.io/gh/fdexfinancing/json-object)
 
 ## Installation
 ```pip install json-object```
